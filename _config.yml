@@ -3,7 +3,7 @@ title:       Blog
 email:       nnmmaa00@naver.com
 author:      Kim Jae Run
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     /euneee
+baseurl:     ""
 url:         "http://euneee.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
