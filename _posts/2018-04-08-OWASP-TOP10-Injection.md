@@ -7,7 +7,7 @@ categories:	jekyll pixyll
 ---
 
 #OWASP TOP 10 - A1
-![OWASP_TOP10_2017](/Users/euneee/Desktop/공부/Image/OWASP_Top10.jpg)
+![OWASP_TOP10_2017](http://blogfiles7.naver.net/MjAxNzA0MTZfMTUx/MDAxNDkyMzEzMzk5NTgz.NdNij63gUTzeiku_dWjXmdVyenFdFF5L35YQRd4bKCsg.Qwk2TKKm-2oVj3pjUK0eHZ0uHpYq9-zliJwYDUnsFcQg.JPEG.nologout/OWASP_Top10_2017_virusmyths.jpg, http://blogfiles7.naver.net/MjAxNzA0MTZfMTUx/MDAxNDkyMzEzMzk5NTgz.NdNij63gUTzeiku_dWjXmdVyenFdFF5L35YQRd4bKCsg.Qwk2TKKm-2oVj3pjUK0eHZ0uHpYq9-zliJwYDUnsFcQg.JPEG.nologout/OWASP_Top10_2017_virusmyths.jpg)
 
 ####**A1 - Injection**
 
